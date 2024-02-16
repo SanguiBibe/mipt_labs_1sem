@@ -1,1 +1,0 @@
-# mipt_labs_1sem
